@@ -155,8 +155,7 @@ This app provides a powerful starting point for real-time vision systems using A
 
 ## 🧑‍💻 Author
 
-**Rohit Kumar**  
-GitHub: [your-profile-link]  
+**Rohit Kumar**    
 Email: rk94523386@gmail.com
 
 Feel free to reach out for questions or contributions.
